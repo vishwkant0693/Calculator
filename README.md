@@ -1,1 +1,1 @@
-# DEVIL
+Calculator Based On JavaScript
