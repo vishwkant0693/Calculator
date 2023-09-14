@@ -1,0 +1,52 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .title {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 5%;
+  }
+  
+  
+  .container {
+    justify-content: center;
+    align-items: center;
+    display: grid;
+    column-gap: 20px;
+    row-gap: 5px;
+  }
+  
+  .row input {
+    margin: 2px;
+    height: 45px;
+    padding-right: 10px;
+    text-align: right;
+  }
+  
+  .button {
+    cursor: pointer;
+    width: 50px;
+    padding: 10px;
+    font-weight: bolder;
+    border-radius: 5px;
+  }
+  
+  .allclear {
+    background-color: black;
+    color: white;
+  }
+  
+  .equal {
+    background-color: yellowgreen;
+  }
+
+  .operators {
+    border-color: chocolate;
+    background-color: rgb(195, 195, 173);
+  }
+
+  .big {
+    width: 105px;
+  }
